@@ -1,0 +1,27 @@
+{
+  "name": "web-lab-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivankarpinsky/web-lab-api.git"
+  },
+  "author": "ivan_karpinskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivankarpinsky/web-lab-api/issues"
+  },
+  "homepage": "https://github.com/ivankarpinsky/web-lab-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
